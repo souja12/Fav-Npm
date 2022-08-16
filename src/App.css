@@ -1,0 +1,42 @@
+.input{
+display: flex;
+justify-content: center;
+flex-direction: row;
+align-items: center;
+padding: 18px 24px 19px;
+width: 1216px;
+height: 26px;
+background: #F7F7FC;
+border: 1px solid #DBD7F4;
+border-radius: 8px;
+}
+
+.map{
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin: 20px;
+}
+
+.inputt{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    padding: 18px 24px 19px;
+    width: 1216px;
+    height: 206px;
+    background: #F7F7FC;
+    border: 1px solid #DBD7F4;
+}
+
+.head{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+
+.btnn{
+    margin-left: 500px;
+    border-radius: 8px;
+}
